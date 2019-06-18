@@ -1,0 +1,7 @@
+name: ServerUiExample
+
+version: 0.0.0
+
+main: me.astronomize.serverui.example.Plugin
+
+depend: [ServerUi]
